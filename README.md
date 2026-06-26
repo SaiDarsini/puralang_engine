@@ -2,7 +2,12 @@
 
 > **An AI-powered Domain-Specific Language for automated data cleaning pipelines.**  
 > Describe your data problem in plain English — PuraLang writes and runs the pipeline for you.
+> 
+## 🌐 Project Ecosystem
 
+* **📦 Python Package Index (PyPI):** [puralang-engine](https://pypi.org/project/puralang-engine/)
+* **💻 Web Interface Dashboard:** [Live link](https://puralangengine-zwuemzwdpalt53atsjjmnp.streamlit.app/)
+* **🐙 Source Code Repository:** [GitHub Repository](https://github.com/SaiDarsini/puralang_engine)
 <p align="center">
   <img src="https://img.shields.io/badge/version-0.1.0-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/python-3.8+-green?style=for-the-badge" />
@@ -11,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://puralangengine-zwuemzwdpalt53atsjjmnp.streamlit.app/">
+ 
     <img src="https://img.shields.io/badge/🌐 Live Demo-Try PuraLang Now-FF4B4B?style=for-the-badge" />
   </a>
 </p>

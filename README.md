@@ -205,7 +205,7 @@ B.Tech Student | Mohan Babu University | Generative AI Intern @ Prodigy InfoTech
 Founder & Core Architect of PuraLang Engine
 
 - GitHub: [@SaiDarsini](https://github.com/SaiDarsini)
-- LinkedIn: [Connect here](https://linkedin.com/in/sai-darsini)
+- LinkedIn: [Connect here](https://www.linkedin.com/in/sai-darsini-s-893967322/)
 
 ---
 

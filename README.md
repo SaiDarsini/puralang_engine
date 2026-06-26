@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://puralangengine-zwuemzwdpalt53atsjjmnp.streamlit.app/">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-Try PuraLang Now-FF4B4B?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## What is PuraLang?
@@ -185,9 +191,9 @@ English prompt → [LLM API] → .pura script → [Engine] → Clean CSV
 - [x] CLI with `run` command
 - [x] AI Mode with `ask` command
 - [x] Visual execution trace table
+- [x] Live Web UI (Streamlit)
 - [ ] PyPI public release (`pip install puralang-engine`)
 - [ ] Support for JSON and Excel input formats
-- [ ] Web UI for non-technical users
 - [ ] VS Code extension with `.pura` syntax highlighting
 
 ---
@@ -199,7 +205,7 @@ B.Tech Student | Mohan Babu University | Generative AI Intern @ Prodigy InfoTech
 Founder & Core Architect of PuraLang Engine
 
 - GitHub: [@SaiDarsini](https://github.com/SaiDarsini)
-
+- LinkedIn: [Connect here](https://linkedin.com/in/sai-darsini)
 
 ---
 

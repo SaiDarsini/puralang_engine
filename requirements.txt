@@ -1,0 +1,5 @@
+lark
+pandas
+rich
+google-genai
+streamlit

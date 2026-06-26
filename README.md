@@ -17,7 +17,6 @@
 
 <p align="center">
  
-    <img src="https://img.shields.io/badge/🌐 Live Demo-Try PuraLang Now-FF4B4B?style=for-the-badge" />
   </a>
 </p>
 

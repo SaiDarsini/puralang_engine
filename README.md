@@ -1,4 +1,6 @@
 # PuraLang Engine 🚀
+## Founder & Author
+* **Sai Darsini Sathuluru** - [GitHub Profile](https://github.com/SaiDarsini)
 
 > **An AI-powered Domain-Specific Language for automated data cleaning pipelines.**  
 > Describe your data problem in plain English — PuraLang writes and runs the pipeline for you.

@@ -201,7 +201,7 @@ English prompt → [LLM API] → .pura script → [Engine] → Clean CSV
 - [ ] VS Code extension with `.pura` syntax highlighting
 
 ---
-
+##Project Founder: Sai Darsini Sathuluru
 ## About the Author
 
 **Sai Darsini Sathuluru**  
